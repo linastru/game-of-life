@@ -373,7 +373,7 @@ game_board = random_board()
 # Set up the window GUI:
 root = tk.Tk()
 root.title("Conway's Game of Life")
-root.iconbitmap("icon.ico")
+root.iconbitmap("game-of-life.ico")
 root.resizable(0, 0)
 
 canvas = tk.Canvas(root, bd=MARGIN, bg=BG_COLOR, width=1, height=1)
