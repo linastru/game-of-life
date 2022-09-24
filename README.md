@@ -1,6 +1,6 @@
 ## Game of Life
 
-Conway's Game of Life written in python with a tkinter GUI.
+Conway's Game of Life written in Python with a tkinter GUI.
 
 ## Features
 
